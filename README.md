@@ -50,7 +50,7 @@
 Clone this repo:
 
 ```bash
-git clone https://github.com/<your-username>/ot-range.git
+git clone https://github.com/EstesIO/OT-Range.git
 cd ot-range/scripts
 chmod +x ot-range-repo.sh
 ./ot-range-repo.sh
